@@ -7,6 +7,8 @@ My Features:
 
 👉 Upload as file from any HTTP link
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RabbitFoRed/Calix)
+
 Installation
 The Easy Way
 You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
