@@ -8,9 +8,16 @@ My Features:
 
 👉 Upload as file from any HTTP link
 
-# Credits and Thanks to :
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+### Available Commands
+  - `/start` =  Start Message
+  - `/me` = Shows Your Current Plan Details
+  - `/help` =  Help Text
+  
+  ## Requirements
+  - Api Hash ( https://my.telegram.org/auth )  `Required`
+  - Api Id  ( https://my.telegram.org/auth )  `Required`
+  - CHAT BASE TOKEN  ( https://chatbase.com ) `Required`
+  - Telegram Bot Token (Using BotFather)  `Required`
 
 
 ### Installation
@@ -70,11 +77,11 @@ generatescss - Get Screenshot of Telegram Media
 
 - For FeedBack and Suggestions, please feel free to say in [ @binarydeveloper ] (https://t.me/binarydeveloper)
 
-   
-Credits and Thanks to
-@SpEcHlDe for his AnyDLBot
-Dan Tès for his Pyrogram Library
-Yoily for his UploaditBot
+# Credits and Thanks to :
+* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* @SpEcHlDe for his AnyDLBot
+
 
 LICENSE
 GPLv3
