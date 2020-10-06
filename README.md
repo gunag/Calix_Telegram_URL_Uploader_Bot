@@ -27,7 +27,7 @@ My Features:
 You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RabbitFoRed/Calix_Telegram_URL_Uploader_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gunag/Calix_Telegram_URL_Uploader_Bot)
 
 #### The Hard Way
 
